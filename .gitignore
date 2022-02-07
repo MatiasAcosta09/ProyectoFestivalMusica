@@ -1,0 +1,9 @@
+node_modules
+src
+._.DS_Store
+._img
+._video
+.DS_Store
+gulpfile.js
+package.json
+package-lock.json
